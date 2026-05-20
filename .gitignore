@@ -1,0 +1,18 @@
+# Ignore editor temporary files
+*~
+*.swp
+*.swo
+*.bak
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore archive and package files
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+
+# Ignore VEP temporary/cache files
+cache
